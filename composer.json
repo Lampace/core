@@ -3,7 +3,7 @@
     "description": "Lampace Core.",
     "type": "project",
     "license": "BSD-3-Clause",
-    "homepage": "https://localhost/",
+    "homepage": "https://www.lampace.com/",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
