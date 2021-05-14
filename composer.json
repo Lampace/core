@@ -1,0 +1,9 @@
+{
+    "name": "lampace/core",
+    "description": "Lampace Core.",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "homepage": "https://localhost/",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
