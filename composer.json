@@ -3,6 +3,7 @@
     "description": "Lampace Core.",
     "license": "BSD-3-Clause",
     "version": "0.0.1",
+    "type":"package",
     "homepage": "https://www.lampace.com/",
     "minimum-stability": "dev"
 }
